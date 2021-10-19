@@ -69,3 +69,4 @@ console.log(pug)
 
 //OPERADOR SPRET
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+//estudiar
