@@ -13,6 +13,8 @@ Esta base la consegui en Udemy con Fernando Herrera "React: De Cero a Experto". 
 ### `Template String`
 
 ### `Objetos LIterales`
+#### `Array.prototype.pam()`
+#### `Contenido:` https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
 ### `Arreglos`
 
