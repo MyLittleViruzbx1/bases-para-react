@@ -15,7 +15,7 @@ Esta base la consegui en Udemy con Fernando Herrera "React: De Cero a Experto". 
 ### `Objetos LIterales`
 #### `Array.prototype.pam()`
 #### `Contenido:` https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-
+Leer todo el contenido y lo practique
 ### `Arreglos`
 
 ### `Desestructuracion *LO MAS IMPORTANTE`

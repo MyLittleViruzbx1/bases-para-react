@@ -1,1 +1,2 @@
-//Funciones
+//Desestructuracion
+//Asignacion Desestructurante
