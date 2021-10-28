@@ -70,3 +70,14 @@ console.log(pug)
 //OPERADOR SPRET
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 //estudiar
+
+
+
+//Estudiando el operador SPREAD
+function sum(x,y,z){
+  return x + y +z;
+}
+
+const numeros = [1,2,3];
+console.log(sum(...numeros))//6
+// console.log(sum.apply(null,numeros));

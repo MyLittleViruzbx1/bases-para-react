@@ -4,7 +4,7 @@ console.log("Variables");
 
 //declaracion de variables
 const nombre = 'Willy';
-let apellido = 'Castillop';
+let apellido = 'Castillo';
 
 //muestro en consola
 let varDato = 21;
