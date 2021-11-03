@@ -42,7 +42,7 @@ console.log({animales:animales})
 const fornite = {
   escar: "dorada",
   escopeta: 'morada',
-  motikin: 'salud',
+  botikin: 'salud',
   minis: {
     grande: 50,
     enano: 25

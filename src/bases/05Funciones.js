@@ -27,8 +27,7 @@ console.log(saludar5())
 // console.log(saludar('Willy'))
 
 
-const getUser = () => 
-({
+const getUser = () => ({
         uid: 'ABC',
         username: 'Max Steel'
        });
@@ -91,3 +90,10 @@ const getUsuario3 = (nombre3) =>({
 
 const loco = getUsuario3('Billy');
 console.log(loco)
+function sum(x,y,z){
+    return x + y +z;
+}
+
+const numeros = [1,2,3];
+
+console.log(sum.apply(null,numeros));

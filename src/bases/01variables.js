@@ -1,5 +1,4 @@
 //variables  VAR LET COST
-
 console.log("Variables");
 
 //declaracion de variables
