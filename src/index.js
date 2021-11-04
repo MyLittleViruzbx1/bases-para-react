@@ -1,5 +1,5 @@
-//Desestructuracion
-//Asignacion Desestructurante
-//ARREGLOS
+//Import, Export y funciones comunes de arreglos
 
-const personajes = ['Naruto', 'Goku', 'Gohan', 'Deku'];
+import {heroes} from './data/heroes';
+
+console.log(heroes)
