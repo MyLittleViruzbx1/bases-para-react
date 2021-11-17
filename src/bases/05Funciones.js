@@ -32,7 +32,6 @@ const getUser = () => ({
         username: 'Max Steel'
        });
 
-const user = getUser();
 console.log(user)
 // console.log(getUser() )
 
