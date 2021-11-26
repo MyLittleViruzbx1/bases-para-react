@@ -1,8 +1,8 @@
-# Bases de Javascript Para Aprender ReactJs
+# Bases de Javascript Para ReactJs
 
 Este proyecto esta creado con el fin de mostrar mi ruta de aprendizaje.\
 Para ello he usado Github y mostrar mis avances que tendre con el curso. \
-Esta base la consegui en Udemy con Fernando Herrera "React: De Cero a Experto". \
+Esta base la consegui en Udemy con Fernando Herrera "React: De Cero a Experto". 
 
 ## Temas en esta seccion
 
@@ -13,8 +13,11 @@ Esta base la consegui en Udemy con Fernando Herrera "React: De Cero a Experto". 
 ### `Template String`
 
 ### `Objetos LIterales`
+
 #### `Array.prototype.pam()`
+
 #### `Contenido:` https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
 Leer todo el contenido y lo practique
 ### `Arreglos`
 
