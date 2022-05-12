@@ -34,36 +34,7 @@ Leer todo el contenido y lo practique
 **Nota: Esto es solo un repaso. **
 #
 #
-#
-
-# Primeros Pasos con React
-
-Aqui les hablare un poco de lo que he aprendidos 
-durante el curso y siempre tratare de profundizar lo mas que pueda
-sobre react
-
-### `Primera Aplicacion un - Hola Mundo`
-
-### `Exposicion sobre componentes`
-Es una pieza de codigo encapsulado que se puede reutilizar \
-tiene 2 estados activo y desactivado.
-
-### `Creacion de componentes`
-
-### `Propiedades - Props`
-
-### `Impresiones en el HTML`
-
-### `PropTypes`
-
-### `DefaultProps`
-
-### `Introduccion general a los Hooks`
-
-### `useState`
-
-
-
+#Terminado 12/05/2022
 
 
 
